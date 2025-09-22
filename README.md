@@ -1,5 +1,4 @@
-# seaplaneline-t-cs
-seaplaneline t&amp;cs
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8" />
